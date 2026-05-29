@@ -16,7 +16,7 @@ Building hands-on expertise in:
 
 * Building Playwright Automation Framework
 * Learning API Automation
-* Preparing for QA Automation and SDET opportunities
+* Expanding automation testing expertise
 
 ## Tech Stack
 
