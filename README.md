@@ -1,12 +1,12 @@
 # Hi, I'm Sai Sindhura 👋
 LinkedIn : https://www.linkedin.com/in/saisindhurak/
 
-Software Engineer with nearly 3 years of experience in enterprise application development and insurance domain solutions.
+Software Engineer with nearly 3 years of experience in enterprise application development, API validation, and enterprise software solutions.
 Building hands-on expertise in:
 
+* Playwright with TypeScript
 * Selenium WebDriver
 * TestNG
-* Playwright with TypeScript
 * API Testing
 * Maven
 * Docker
