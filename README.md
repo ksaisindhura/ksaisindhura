@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sai Sindhura 👋
 
-<!--
-**ksaisindhura/ksaisindhura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with nearly 3 years of experience in enterprise application development and insurance domain solutions.
 
-Here are some ideas to get you started:
+Currently transitioning into QA Automation and building hands-on expertise in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Selenium WebDriver
+* TestNG
+* Playwright with TypeScript
+* API Testing
+* Maven
+* Docker
+* Git & GitHub
+
+## Current Focus
+
+* Building Playwright Automation Framework
+* Learning API Automation
+* Preparing for QA Automation and SDET opportunities
+
+## Tech Stack
+
+Java • TypeScript • Selenium • Playwright • TestNG • Postman • Git • Maven • Docker
