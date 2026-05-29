@@ -1,8 +1,8 @@
 # Hi, I'm Sai Sindhura 👋
-
+LinkedIn : https://www.linkedin.com/in/saisindhurak/
 Software Engineer with nearly 3 years of experience in enterprise application development and insurance domain solutions.
 
-Currently transitioning into QA Automation and building hands-on expertise in:
+Building hands-on expertise in:
 
 * Selenium WebDriver
 * TestNG
